@@ -3,10 +3,10 @@ import requests
 import time
 from telebot import types
 
-bot_token = '6031064732:AAHswx8tnxhYl5Hp_cPyF_GU2oL_EqRnH28'
+bot_token = 'BOT_TOKEN'
 bot = telebot.TeleBot(bot_token)
 
-appid = '3ec53bf38002c6ec12cac9467e9817a9'
+appid = 'APPID'
 bot_city = 'Москва'
 bot_lang = 'ru'
 start_check = 0
